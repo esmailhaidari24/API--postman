@@ -14,7 +14,7 @@ Documentation des tests : Consigner les tests réalisés pour un reporting déta
 Création d'un rapport de test : Rédiger un rapport complet des tests effectués, incluant les résultats et les observations.
 
 
-[](https://docs.google.com/spreadsheets/d/1Q_RvtFM7T6Rm9kFg350Kb_wGrKHLPrRSTY2NVKeizuA/edit?gid=0#gid=0)
+[ ](https://docs.google.com/spreadsheets/d/1Q_RvtFM7T6Rm9kFg350Kb_wGrKHLPrRSTY2NVKeizuA/edit?gid=0#gid=0)
 
 [](file:///Users/haidari/Desktop/requetes.png)
 
