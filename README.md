@@ -16,5 +16,5 @@ Création d'un rapport de test : Rédiger un rapport complet des tests effectué
 
 
 
-![ ](file:///Users/haidari/Downloads/automatisation.png)
+! [ ](file:///Users/haidari/Downloads/automatisation.png)
 
