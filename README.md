@@ -15,4 +15,4 @@ Création d'un rapport de test : Rédiger un rapport complet des tests effectué
 
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https:file:///Users/haidari/Desktop/Capture%20d%E2%80%99e%CC%81cran%201403-06-14%20a%CC%80%2021.47.35.png)
+![](https:file:///Users/haidari/Desktop/Capture%20d%E2%80%99e%CC%81cran%201403-06-14%20a%CC%80%2021.47.35.png)
