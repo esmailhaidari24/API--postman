@@ -37,5 +37,5 @@ Vérification les codes de réponse HTTP pour chaque requête et comparez les r�
 Noter les erreurs et les comportements inattendus pour un retour d'expérience complet.
 
 
-![](file:///Users/haidari/Desktop/image.png)
+
 
