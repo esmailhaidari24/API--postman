@@ -38,6 +38,7 @@ Noter les erreurs et les comportements inattendus pour un retour d'expérience c
 
 ![automatisation des API](https://github.com/esmailhaidari24/API--postman/blob/main/requetes.png)
 
+![](https://github.com/esmailhaidari24/API--postman/blob/main/automatisation%20(1).png)
 
 
 
