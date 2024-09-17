@@ -40,6 +40,7 @@ Noter les erreurs et les comportements inattendus pour un retour d'expérience c
 
 
 ![](https://github.com/esmailhaidari24/API--postman/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-14%20a%CC%80%2021.36.27.png)
+![](https://github.com/esmailhaidari24/API--postman/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-27%20a%CC%80%2014.21.46.png)
 
 
 
