@@ -36,10 +36,22 @@ Exécution les cas de test sur Postman.
 Vérification les codes de réponse HTTP pour chaque requête et comparez les résultats attendus avec ceux obtenus.
 Noter les erreurs et les comportements inattendus pour un retour d'expérience complet.
 
-**[ Lien pour les API   ](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDNtFIL7eCEX2Z8tUXV_7PIFr7X-Ty0QK2jy2Nwf3DYvcJZimTgc99n8SEC9HJqxJy3HvW3Hyp9Hju/pubhtml)**
+**Ce projet met à disposition plusieurs APIs permettant de gérer différents aspects d'une plateforme de location de véhicules.**
 
+📋 Fonctionnalités des APIs
+Vous pouvez tester les fonctionnalités suivantes :
 
+👤 Gestion des utilisateurs : Création, mise à jour, et gestion des profils utilisateurs.
+🚗 Catégories de véhicules : Gestion des différentes catégories de véhicules disponibles.
+🛠️ Véhicules disponibles : Ajouter, modifier et consulter les véhicules dans l'inventaire.
+🏢 Agences de location : Gestion des différentes agences de location.
+📅 Disponibilités des véhicules : Vérification et gestion des disponibilités.
+📄 Locations : Gestion des réservations et locations des véhicules.
+⭐ Avis clients : Collecte et gestion des avis des utilisateurs.
+🌐 Documentation et accès aux APIs
+Cliquez sur le lien suivant pour accéder à la documentation et tester les fonctionnalités des APIs :
 
+👉 Lien pour tester les APIs
 
 ![](https://github.com/esmailhaidari24/API--postman/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-16%20a%CC%80%2010.00.39.png)
 
