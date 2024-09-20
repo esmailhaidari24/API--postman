@@ -3,7 +3,7 @@
 + Objectif:
 Le but de ce TP est de créer des cas de test pour une API de location de voitures, puis de les exécuter avec Postman. Ensuite, l’idée est d’automatiser ces tests pour faciliter les tests de régression lors des mises à jour.
 
-**Déroulement**
+# Déroulement
 
 + **Rédaction des cas de test :** On commence par créer des cas de test en se basant sur la documentation de l'API.
 + **Exécution des requêtes :** Ensuite, on va utiliser Postman pour exécuter les requêtes et valider les résultats.
