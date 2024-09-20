@@ -59,8 +59,8 @@ Vous pouvez tester les fonctionnalités suivantes :
 
 Cliquez sur le lien suivant pour accéder à la documentation et tester les fonctionnalités des APIs :
 
-+ 👉 ![](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDNtFIL7eCEX2Z8tUXV_7PIFr7X-Ty0QK2jy2Nwf3DYvcJZimTgc99n8SEC9HJqxJy3HvW3Hyp9Hju/pubhtml?gid=0&single=true)
-  
++ 👉 [Documentation API](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDNtFIL7eCEX2Z8tUXV_7PIFr7X-Ty0QK2jy2Nwf3DYvcJZimTgc99n8SEC9HJqxJy3HvW3Hyp9Hju/pubhtml)
+
 ![](https://github.com/esmailhaidari24/API--postman/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-16%20a%CC%80%2010.00.39.png)
 
 
