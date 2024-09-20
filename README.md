@@ -36,7 +36,8 @@ Exécution les cas de test sur Postman.
 Vérification les codes de réponse HTTP pour chaque requête et comparez les résultats attendus avec ceux obtenus.
 Noter les erreurs et les comportements inattendus pour un retour d'expérience complet.
 
-[ Lien pour les API   ](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDNtFIL7eCEX2Z8tUXV_7PIFr7X-Ty0QK2jy2Nwf3DYvcJZimTgc99n8SEC9HJqxJy3HvW3Hyp9Hju/pubhtml)
+**[ Lien pour les API   ](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDNtFIL7eCEX2Z8tUXV_7PIFr7X-Ty0QK2jy2Nwf3DYvcJZimTgc99n8SEC9HJqxJy3HvW3Hyp9Hju/pubhtml)**
+
 
 
 
