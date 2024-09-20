@@ -59,8 +59,7 @@ Vous pouvez tester les fonctionnalités suivantes :
 
 Cliquez sur le lien suivant pour accéder à la documentation et tester les fonctionnalités des APIs :
 
-+ 👉 Lien pour tester les APIs
-
++ 👉 Lien pour tester les APIs:
 ![](https://github.com/esmailhaidari24/API--postman/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-16%20a%CC%80%2010.00.39.png)
 
 
