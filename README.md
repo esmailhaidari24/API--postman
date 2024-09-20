@@ -1,40 +1,32 @@
-
 **Test d'une API de Location de Voitures**
 
-**Objectif :**
++ Objectif:
+Le but de ce TP est de créer des cas de test pour une API de location de voitures, puis de les exécuter avec Postman. Ensuite, l’idée est d’automatiser ces tests pour faciliter les tests de régression lors des mises à jour.
 
-Ce TP vise à élaborer des cas de test pour une API de location de voitures, les exécuter à l'aide de Postman, puis automatiser ces tests pour permettre des tests de régression lors des mises à jour logicielles.
+**Déroulement**
 
-**Déroulement:**
++ **Rédaction des cas de test :** On commence par créer des cas de test en se basant sur la documentation de l'API.
++ **Exécution des requêtes :** Ensuite, on va utiliser Postman pour exécuter les requêtes et valider les résultats.
 
-Rédaction des cas de test : Créer des cas de test en se basant sur la documentation fournie pour l'API.
-Exécution des requêtes : Utiliser Postman pour exécuter les requêtes et valider les résultats.
-Automatisation des tests : Mettre en place des scripts d'automatisation pour les tests afin de faciliter les tests de régression futurs.
++ **Automatisation des tests :** On va mettre en place des scripts d'automatisation pour permettre des tests de régression automatiques.
 
-**Documentation des tests :** 
++ **Documentation des tests :** On va consigner les tests réalisés et rédiger un rapport complet des résultats.
 
-Consigner les tests réalisés pour un reporting détaillé.
-Création d'un rapport de test : Rédiger un rapport complet des tests effectués, incluant les résultats et les observations.
++ **Tests à réaliser**
 
-Tester les opérations de lecture : Valider les endpoints GET pour récupérer les listes et les détails des utilisateurs, catégories, véhicules, agences, disponibilités, locations et avis.
-
-Tester les opérations de création : Valider les endpoints POST pour ajouter de nouvelles entrées dans chaque catégorie.
-Tester les opérations de mise à jour : Valider les endpoints PUT pour modifier les entrées existantes.
-Tester les opérations de suppression : Valider les endpoints DELETE pour supprimer les entrées.
-
-**Plan du TP :**
-
-Prérequis : Assurez-vous d'avoir un environnement de test configuré avec l'accès à la base de données location_vehicules.
-Documentation de l'API : Référez-vous à la documentation accessible à l'URL [/doc] pour comprendre la structure des requêtes et des réponses.
-Scénarios de Test : Utilisez les différents endpoints pour tester les fonctionnalités décrites. Documentez vos résultats et les anomalies rencontrées.
-
-**Consignes :**
-j'ai essayé de Suivre la logique ISTQB pour les tests.
-
-Création  une stratégie de test complète comprenant des cas de test détaillés.
-Exécution les cas de test sur Postman.
-Vérification les codes de réponse HTTP pour chaque requête et comparez les résultats attendus avec ceux obtenus.
-Noter les erreurs et les comportements inattendus pour un retour d'expérience complet.
+**Tester les opérations de lecture (GET) :** Valider les endpoints pour récupérer les listes et détails des utilisateurs, catégories, véhicules, agences, disponibilités, locations et avis.
+Tester les opérations de création (POST) : Vérifier si on peut ajouter des nouvelles données dans chaque catégorie.
+Tester les opérations de mise à jour (PUT) : Vérifier si on peut modifier les données existantes.
+Tester les opérations de suppression (DELETE) : Vérifier si on peut bien supprimer les entrées.
+Plan du TP
+Prérequis : S'assurer que l'environnement de test est prêt et qu'on a accès à la base de données location_vehicules.
+Documentation de l'API : Se référer à la doc accessible via l'URL /doc pour comprendre les requêtes et les réponses.
+Scénarios de test : Utiliser les différents endpoints pour tester les fonctionnalités, et documenter les résultats ainsi que les anomalies rencontrées.
+Consignes
+J’ai suivi la logique ISTQB pour élaborer les tests.
+J’ai rédigé une stratégie de test complète avec des cas de test détaillés.
+J’ai exécuté ces tests avec Postman, vérifié les codes de réponse HTTP et comparé les résultats attendus avec ceux obtenus.
+J’ai noté les erreurs et les comportements inattendus pour fournir un retour d'expérience complet.
 
 **Ce projet met à disposition plusieurs APIs permettant de gérer différents aspects d'une plateforme de location de véhicules.**
 
