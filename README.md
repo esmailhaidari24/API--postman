@@ -1,4 +1,4 @@
-**Test d'une API de Location de Voitures**
+# Test d'une API de Location de Voitures
 
 + Objectif:
 Le but de ce TP est de créer des cas de test pour une API de location de voitures, puis de les exécuter avec Postman. Ensuite, l’idée est d’automatiser ces tests pour faciliter les tests de régression lors des mises à jour.
@@ -12,21 +12,28 @@ Le but de ce TP est de créer des cas de test pour une API de location de voitur
 
 + **Documentation des tests :** On va consigner les tests réalisés et rédiger un rapport complet des résultats.
 
-+ **Tests à réaliser**
+  # Tests à réaliser
 
 **Tester les opérations de lecture (GET) :** Valider les endpoints pour récupérer les listes et détails des utilisateurs, catégories, véhicules, agences, disponibilités, locations et avis.
-Tester les opérations de création (POST) : Vérifier si on peut ajouter des nouvelles données dans chaque catégorie.
-Tester les opérations de mise à jour (PUT) : Vérifier si on peut modifier les données existantes.
-Tester les opérations de suppression (DELETE) : Vérifier si on peut bien supprimer les entrées.
-Plan du TP
-Prérequis : S'assurer que l'environnement de test est prêt et qu'on a accès à la base de données location_vehicules.
-Documentation de l'API : Se référer à la doc accessible via l'URL /doc pour comprendre les requêtes et les réponses.
-Scénarios de test : Utiliser les différents endpoints pour tester les fonctionnalités, et documenter les résultats ainsi que les anomalies rencontrées.
-Consignes
++ **Tester les opérations de création (POST) :** Vérifier si on peut ajouter des nouvelles données dans chaque catégorie.
+
++ **Tester les opérations de mise à jour (PUT) :** Vérifier si on peut modifier les données existantes.
+
++ **Tester les opérations de suppression (DELETE) :** Vérifier si on peut bien supprimer les entrées.
+
+# Plan du TP
+
++ **Prérequis :** S'assurer que l'environnement de test est prêt et qu'on a accès à la base de données location_vehicules.
+
++ **Documentation de l'API :** Se référer à la doc accessible via l'URL /doc pour comprendre les requêtes et les réponses.
+
++ **Scénarios de test :** Utiliser les différents endpoints pour tester les fonctionnalités, et documenter les résultats ainsi que les anomalies rencontrées.
+
+# Consignes
 J’ai suivi la logique ISTQB pour élaborer les tests.
 J’ai rédigé une stratégie de test complète avec des cas de test détaillés.
 J’ai exécuté ces tests avec Postman, vérifié les codes de réponse HTTP et comparé les résultats attendus avec ceux obtenus.
-J’ai noté les erreurs et les comportements inattendus pour fournir un retour d'expérience complet.
+
 
 **Ce projet met à disposition plusieurs APIs permettant de gérer différents aspects d'une plateforme de location de véhicules.**
 
