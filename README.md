@@ -36,6 +36,10 @@ Exécution les cas de test sur Postman.
 Vérification les codes de réponse HTTP pour chaque requête et comparez les résultats attendus avec ceux obtenus.
 Noter les erreurs et les comportements inattendus pour un retour d'expérience complet.
 
+[ Lien pour les API   ](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDNtFIL7eCEX2Z8tUXV_7PIFr7X-Ty0QK2jy2Nwf3DYvcJZimTgc99n8SEC9HJqxJy3HvW3Hyp9Hju/pubhtml)
+
+
+
 ![](https://github.com/esmailhaidari24/API--postman/blob/main/Capture%20d%E2%80%99e%CC%81cran%201403-06-16%20a%CC%80%2010.00.39.png)
 
 
