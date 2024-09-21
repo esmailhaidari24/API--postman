@@ -25,7 +25,7 @@ Le but de ce TP est de créer des cas de test pour une API de location de voitur
 
 + **Prérequis :** S'assurer que l'environnement de test est prêt et qu'on a accès à la base de données location_vehicules.
 
-+ **Documentation de l'API :** Se référer à la doc accessible via l'URL /doc pour comprendre les requêtes et les réponses.
+#  **Documentation de l'API :** Se référer à la doc accessible via l'URL /doc pour comprendre les requêtes et les réponses.
 
 + **Scénarios de test :** Utiliser les différents endpoints pour tester les fonctionnalités, et documenter les résultats ainsi que les anomalies rencontrées.
 
